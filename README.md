@@ -1,6 +1,13 @@
 # Blockchain-CertificationDApp
 Blockchain based Certification DApp
 
+Steps:
+1. UI
+2. Connection: Metamask <- contract-> Ganache
+   - accounts and balances
+3. Use '*Ethereum - web3.js*' using address + ABI from complied contract
+4. 
+
 # truffle
 
 
